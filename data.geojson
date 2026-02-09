@@ -114,5 +114,24 @@
       "verified" : true
     },
     "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 10.743482689635671, 59.91226079869221 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "category" : "shopping",
+      "description" : "Changing room located on the fifth floor. Look for the pin, as there are also regular toilets on that floor.",
+      "has_changing_area" : true,
+      "has_child_seats" : false,
+      "has_nursing_area" : false,
+      "has_playground" : false,
+      "id" : "258DF289-3612-4069-8979-48F3D83D9186",
+      "is_wheelchair_accessible" : true,
+      "name" : "Changing room Steen & Strøm",
+      "notes" : "",
+      "verified" : false
+    },
+    "type" : "Feature"
   } ]
 }
