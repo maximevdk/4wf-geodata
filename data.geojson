@@ -130,7 +130,7 @@
       "is_wheelchair_accessible" : true,
       "name" : "Changing room Steen & Strøm",
       "notes" : "",
-      "verified" : false
+      "verified" : true
     },
     "type" : "Feature"
   } ]
