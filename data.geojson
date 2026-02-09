@@ -1,0 +1,118 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "geometry" : {
+      "coordinates" : [ 5.851109972189997, 61.45348010032542 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "category" : "shopping",
+      "description" : "Nursing and changing room on the third floor of the shopping mall, check the pin location to find which side of the shopping mall since it has two sides. The room is close to the elevators. \nYou need to go ask for the key at the Tilbords store one story down.",
+      "has_changing_area" : true,
+      "has_child_seats" : false,
+      "has_nursing_area" : true,
+      "has_playground" : false,
+      "id" : "CBF69A1B-3698-4302-B6DC-61D9F0ECC971",
+      "is_wheelchair_accessible" : true,
+      "name" : "Altid nursing room",
+      "notes" : "Only open during shopping mall opening hours.",
+      "verified" : true
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 5.8665970386139135, 61.45387398746596 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "category" : "other",
+      "description" : "Changing room in Førdehuset.",
+      "has_changing_area" : true,
+      "has_child_seats" : false,
+      "has_nursing_area" : false,
+      "has_playground" : false,
+      "id" : "9CC97E74-7871-4916-AEA0-FCF816BF7A4A",
+      "is_wheelchair_accessible" : true,
+      "name" : "Førdehuset",
+      "notes" : "There’s usually a lot of kids walking around but you could potentially find a good place to nurse.",
+      "verified" : true
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 5.863009165698152, 61.450870406261004 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "category" : "playground",
+      "description" : "",
+      "has_changing_area" : false,
+      "has_child_seats" : false,
+      "has_nursing_area" : false,
+      "has_playground" : true,
+      "id" : "16140EA2-4859-4EEE-AB0E-A648B5DCF10C",
+      "is_wheelchair_accessible" : false,
+      "name" : "Hafstadparken playground",
+      "notes" : "",
+      "verified" : true
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.006899085696792008, 51.54136016803965 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "category" : "cafe",
+      "description" : "Best baby changing area in town",
+      "has_changing_area" : true,
+      "has_child_seats" : false,
+      "has_nursing_area" : true,
+      "has_playground" : false,
+      "id" : "84F902CB-49C0-4886-B579-8B0B0059501F",
+      "is_wheelchair_accessible" : true,
+      "name" : "Chez ZiNa",
+      "notes" : "",
+      "verified" : true
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 5.889336401182659, 61.4485760556787 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "category" : "cafe",
+      "description" : "Changing area at Coop Café. It is shared with the HC.",
+      "has_changing_area" : true,
+      "has_child_seats" : true,
+      "has_nursing_area" : false,
+      "has_playground" : false,
+      "id" : "A0FAE4A0-629B-4D6B-AE76-B74F4D5F00BC",
+      "is_wheelchair_accessible" : true,
+      "name" : "Coop Café",
+      "notes" : "",
+      "verified" : true
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 5.8489680716180334, 61.45155514593373 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "category" : "other",
+      "description" : "There’s an open changing room on the third floor (next to the sport store). There’s also a changing room on this floor.",
+      "has_changing_area" : true,
+      "has_child_seats" : false,
+      "has_nursing_area" : true,
+      "has_playground" : false,
+      "id" : "78EA1337-C07B-4AFC-8928-437D476749DC",
+      "is_wheelchair_accessible" : true,
+      "name" : "Changing room and nursing area Elvetorget",
+      "notes" : "You need to go get the key in the sports store.",
+      "verified" : true
+    },
+    "type" : "Feature"
+  } ]
+}
