@@ -133,5 +133,24 @@
       "verified" : true
     },
     "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.007344047604028799, 51.52114093338866 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "category" : "medical",
+      "description" : "",
+      "has_changing_area" : true,
+      "has_child_seats" : false,
+      "has_nursing_area" : true,
+      "has_playground" : false,
+      "id" : "FAD7D87B-9CC0-4FB8-A39F-5E5C59B6D3A7",
+      "is_wheelchair_accessible" : true,
+      "name" : "School",
+      "notes" : "",
+      "verified" : false
+    },
+    "type" : "Feature"
   } ]
 }
