@@ -171,24 +171,5 @@
       "verified" : true
     },
     "type" : "Feature"
-  }, {
-    "geometry" : {
-      "coordinates" : [ 4.703739629976753, 50.88067817613835 ],
-      "type" : "Point"
-    },
-    "properties" : {
-      "category" : "library",
-      "description" : "The changing area is on the lower level, it is really exposed (outside of the toilets)",
-      "has_changing_area" : true,
-      "has_child_seats" : false,
-      "has_nursing_area" : false,
-      "has_playground" : false,
-      "id" : "310B9DE2-ABD5-4146-B6BA-D1E3972CD9B7",
-      "is_wheelchair_accessible" : true,
-      "name" : "Leuven Library",
-      "notes" : "",
-      "verified" : false
-    },
-    "type" : "Feature"
   } ]
 }
