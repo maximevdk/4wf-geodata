@@ -2,7 +2,7 @@ name: Resolve GeoJSON conflicts in open PRs
 
 on:
   push:
-    branches: [main]
+    branches: [master]
     paths: [data.geojson]
 
 jobs:
