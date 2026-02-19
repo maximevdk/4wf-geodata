@@ -166,29 +166,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          18.0678776,
-          59.3303937
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "0D52D239-E988-4255-A5F6-4BBCD58DA8EA",
-        "is_wheelchair_accessible": true,
-        "name": "IKEA Restaurang",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           18.0369918,
           59.3478183
         ],
@@ -227,29 +204,6 @@
         "id": "71BB17EF-2605-4078-A52C-1331749A3F65",
         "is_wheelchair_accessible": false,
         "name": "Stensborgs lekplats",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          13.8338588,
-          58.3957608
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "5FF9B05A-9E11-41D4-8FCA-CBA427A5F24B",
-        "is_wheelchair_accessible": true,
-        "name": "Urban Bistro",
         "notes": "",
         "verified": false
       }
@@ -963,29 +917,6 @@
         "id": "40DA199D-E8C9-48B7-AC38-30FC8376104F",
         "is_wheelchair_accessible": false,
         "name": "Knektåsparken",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          17.6233306,
-          59.1978553
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "B33998F5-A863-42D1-9A23-434B1646CEF3",
-        "is_wheelchair_accessible": false,
-        "name": "Nya Blixten",
         "notes": "",
         "verified": false
       }
@@ -2251,29 +2182,6 @@
         "id": "8AC69B64-91D8-4E08-A1A8-5D687A42D30C",
         "is_wheelchair_accessible": false,
         "name": "Rågdalens parklek",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          18.0626432,
-          59.3197682
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "2F7E6B95-2056-4146-8250-EE66C4096217",
-        "is_wheelchair_accessible": false,
-        "name": "A bowl & plates",
         "notes": "",
         "verified": false
       }
@@ -4168,29 +4076,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          20.2546357,
-          63.8079357
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "BB8C5912-BC91-43AC-A7C5-3F4FCDE1A6E1",
-        "is_wheelchair_accessible": true,
-        "name": "IKEA restaurant",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           15.4319165,
           60.4766295
         ],
@@ -6000,29 +5885,6 @@
         "id": "F7E04ED9-2FB7-4A00-ABF3-45935783BC7F",
         "is_wheelchair_accessible": false,
         "name": "Stupvägens lekplats",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          15.6230656,
-          60.6188117
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "D95E80BC-25FA-4328-8E0E-8E986EF36B07",
-        "is_wheelchair_accessible": true,
-        "name": "Pizzeria Venezia",
         "notes": "",
         "verified": false
       }
@@ -7894,29 +7756,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          17.7226008,
-          59.6169565
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "7538D511-FA18-4F8D-AEB6-9C0A1DC52276",
-        "is_wheelchair_accessible": true,
-        "name": "Valvet",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           21.2375596,
           65.3405065
         ],
@@ -8906,29 +8745,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          17.6404921,
-          59.8582083
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "D814076E-D666-46C9-A844-7F0BF52290CB",
-        "is_wheelchair_accessible": true,
-        "name": "Egon",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           16.4078879,
           57.907008
         ],
@@ -9527,29 +9343,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          17.6366111,
-          59.8599486
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "607068A8-AEA8-4F52-8229-68EC38616D6E",
-        "is_wheelchair_accessible": false,
-        "name": "Sushi Yama",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           20.0418472,
           64.7897193
         ],
@@ -9565,29 +9358,6 @@
         "id": "CBBB2CA4-E22B-4200-B828-DEB929261633",
         "is_wheelchair_accessible": true,
         "name": "Public toilets (with changing table)",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          18.1125484,
-          58.8808303
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "311B4330-0817-419E-8C4C-A71EE7E78E8F",
-        "is_wheelchair_accessible": false,
-        "name": "Nåttarö krog",
         "notes": "",
         "verified": false
       }
@@ -9864,29 +9634,6 @@
         "id": "373D2842-FC4A-4238-84CD-97D83B18AFF5",
         "is_wheelchair_accessible": true,
         "name": "Bibliotek Sunne",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          18.0718818,
-          59.3142868
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "FDA7C3DC-4EB0-4CB5-9182-43417A97E807",
-        "is_wheelchair_accessible": true,
-        "name": "Olivia",
         "notes": "",
         "verified": false
       }
@@ -10424,29 +10171,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          11.8193595,
-          58.3559985
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "969C7655-1F99-4E1A-B3B9-4F30174C977C",
-        "is_wheelchair_accessible": true,
-        "name": "IKEA Restaurang & Café",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           17.6079979,
           59.8054232
         ],
@@ -10531,29 +10255,6 @@
         "id": "2C475384-2440-4980-900B-58FEF60DEFBE",
         "is_wheelchair_accessible": false,
         "name": "Lekplats Aspgatan",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          13.1437239,
-          59.837233
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "D9D0757E-E549-45AF-9A1B-0B0EDB5C2670",
-        "is_wheelchair_accessible": false,
-        "name": "Saffran & vitlök",
         "notes": "",
         "verified": false
       }
@@ -13391,29 +13092,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          12.2884678,
-          58.2832868
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "5764BC84-97E1-4290-BCDF-FCA32EDF160D",
-        "is_wheelchair_accessible": true,
-        "name": "Sour Café & Bar",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           17.9989698,
           59.3606754
         ],
@@ -13820,29 +13498,6 @@
         "id": "43A1186E-667D-4BF2-98AF-77B17975E3F6",
         "is_wheelchair_accessible": false,
         "name": "Play and green area for all ages",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          16.5447805,
-          59.6119829
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "191AB54B-2467-4B10-938F-E6422704366A",
-        "is_wheelchair_accessible": true,
-        "name": "Piazza Di Spagna",
         "notes": "",
         "verified": false
       }
@@ -14679,29 +14334,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          17.3099621,
-          59.7341509
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "D21DCAB2-BC7E-4410-97EB-AE00BEDAC744",
-        "is_wheelchair_accessible": true,
-        "name": "Gula villan",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           17.5763427,
           59.9559026
         ],
@@ -14840,29 +14472,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          15.6431434,
-          60.595072
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "7E91E912-E1F8-4AE1-A1E8-1DC7FD8F0C50",
-        "is_wheelchair_accessible": false,
-        "name": "Pizzeria Piccolo Mondo",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           16.5350192,
           58.8357972
         ],
@@ -14970,29 +14579,6 @@
         "id": "CEA8AAD8-7992-4740-AA02-7EE3DC269593",
         "is_wheelchair_accessible": false,
         "name": "Olsmässvägens lekplats",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          15.4350504,
-          60.4840064
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "8E8DDFBD-C35D-4E89-989B-0BF8F7552220",
-        "is_wheelchair_accessible": false,
-        "name": "Pizzeria Tre Kronor",
         "notes": "",
         "verified": false
       }
@@ -15300,52 +14886,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          17.3356601,
-          62.4457266
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "E505F71F-1DBE-4074-AC45-41DF6CB66AF9",
-        "is_wheelchair_accessible": true,
-        "name": "Ikea Restaurang",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          17.8818327,
-          59.346484
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "A654135F-CDB3-40D8-B1ED-98944A6877AD",
-        "is_wheelchair_accessible": true,
-        "name": "Olivias krog",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           18.0703524,
           59.3260654
         ],
@@ -15407,29 +14947,6 @@
         "id": "4128FF84-0F00-4169-8597-88A56E87DD7C",
         "is_wheelchair_accessible": false,
         "name": "Lövbrunnaleken",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          17.9040448,
-          59.3582993
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "playground",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "4AFB3CD2-7AA2-480A-9EA3-1E937730D5E3",
-        "is_wheelchair_accessible": false,
-        "name": "Sushiparken",
         "notes": "",
         "verified": false
       }
@@ -17025,29 +16542,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          13.6024799,
-          59.3981413
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "B4549178-25DA-48C1-AB8D-3E35F0660888",
-        "is_wheelchair_accessible": false,
-        "name": "Alsters Herrgårdscafé",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           14.6212987,
           63.1809832
         ],
@@ -17155,29 +16649,6 @@
         "id": "F2103F27-D50B-42EF-ACA0-DEDF7CEB1444",
         "is_wheelchair_accessible": false,
         "name": "Skolparken",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          15.5865667,
-          58.4338133
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "6B6D69B0-7FAB-40A6-AB95-668E76923D0E",
-        "is_wheelchair_accessible": true,
-        "name": "IKEA Restaurang",
         "notes": "",
         "verified": false
       }
@@ -17761,29 +17232,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          18.0027448,
-          59.3709332
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "3E003937-31AD-45FF-938E-5C24718DAFF6",
-        "is_wheelchair_accessible": true,
-        "name": "Egon",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           17.9431112,
           62.6358818
         ],
@@ -18052,29 +17500,6 @@
         "id": "F59D5532-51A7-4266-B024-0B3BB00D4615",
         "is_wheelchair_accessible": false,
         "name": "Stora Hopp & Skoj",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          18.0646242,
-          59.3320237
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "25E7D4B8-90B5-40A6-A0BE-D6C555133E80",
-        "is_wheelchair_accessible": false,
-        "name": "Kulturhuset Stories",
         "notes": "",
         "verified": false
       }
@@ -18397,29 +17822,6 @@
         "id": "6630498F-69D0-411B-9AE1-70069F271223",
         "is_wheelchair_accessible": false,
         "name": "Åkerspöket",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          13.0262017,
-          60.1649496
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "3CF397EC-4549-4A65-953C-100F3441EFEA",
-        "is_wheelchair_accessible": false,
-        "name": "Sahlströmsgården",
         "notes": "",
         "verified": false
       }
@@ -19547,29 +18949,6 @@
         "id": "D8182148-F94A-4851-B20E-CBB484B2CC2E",
         "is_wheelchair_accessible": false,
         "name": "Norrstrandsparken/HSB-gärdets lekplats",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          18.0646973,
-          59.3320372
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "69013CC5-1211-4578-8FD9-327C4686348E",
-        "is_wheelchair_accessible": false,
-        "name": "Kulturhuset Taket",
         "notes": "",
         "verified": false
       }
@@ -21050,29 +20429,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          18.1442226,
-          59.2228185
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "12FBEB88-27A1-447F-88CE-E7ACED60C3E8",
-        "is_wheelchair_accessible": true,
-        "name": "Peppes Restaurant",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           18.0389835,
           59.2993524
         ],
@@ -21548,29 +20904,6 @@
         "id": "7573F786-23E0-4DC4-9A83-474677E2B5A3",
         "is_wheelchair_accessible": false,
         "name": "Persdals lekplats",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          17.8979359,
-          59.5754654
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "restaurant",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "B979F544-C5CD-4759-8DD0-717F57AD88B1",
-        "is_wheelchair_accessible": true,
-        "name": "ChopChop",
         "notes": "",
         "verified": false
       }
