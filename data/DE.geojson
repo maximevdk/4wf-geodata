@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          7.262971817133985,
+          52.360960752797475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "category": "shopping",
+        "description": "Big plant store, very child focused with playground. Good changing area in the main entrance to the right. There is none in the store itself.",
+        "has_changing_area": true,
+        "has_child_seats": false,
+        "has_nursing_area": false,
+        "has_playground": true,
+        "id": "5F8174FD-665E-44ED-881F-ED91B69B0882",
+        "is_wheelchair_accessible": true,
+        "name": "Gartenwelt",
+        "notes": "",
+        "verified": true
+      },
+      "type": "Feature"
+    }
+  ]
+}

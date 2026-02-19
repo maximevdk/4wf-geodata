@@ -1,6 +1,6 @@
 const { execSync } = require("child_process");
-
-const GEOJSON_FILE = "data.geojson";
+const fs = require("fs");
+const path = require("path");
 
 function run(cmd) {
   return execSync(cmd, { encoding: "utf-8" }).trim();
@@ -11,6 +11,16 @@ function getFileAtRef(ref, file) {
     return JSON.parse(run(`git show ${ref}:${file}`));
   } catch {
     return null;
+  }
+}
+
+function listGeoJSONFiles(ref) {
+  try {
+    return run(`git ls-tree --name-only ${ref} data/`)
+      .split("\n")
+      .filter((f) => f.endsWith(".geojson"));
+  } catch {
+    return [];
   }
 }
 
@@ -65,7 +75,6 @@ async function main() {
   const [owner, repo] = process.env.GITHUB_REPOSITORY.split("/");
   const octokit = new Octokit({ auth: token });
 
-  // Fetch all open PRs
   const { data: prs } = await octokit.pulls.list({
     owner,
     repo,
@@ -80,7 +89,6 @@ async function main() {
 
   console.log(`Found ${prs.length} open PR(s).`);
 
-  // Make sure we have latest main
   run("git fetch origin main");
 
   for (const pr of prs) {
@@ -88,10 +96,8 @@ async function main() {
     console.log(`\nProcessing PR #${pr.number}: ${pr.title} (${branch})`);
 
     try {
-      // Fetch the PR branch
       run(`git fetch origin ${branch}`);
 
-      // Check if there's actually a conflict
       const mergeBase = run(`git merge-base origin/main origin/${branch}`);
 
       // Try a test merge to see if there's a conflict
@@ -105,51 +111,65 @@ async function main() {
         run("git merge --abort 2>/dev/null || true");
       }
 
-      // There is a conflict — resolve it via JSON merge
       console.log(`  Conflict detected — resolving via JSON merge...`);
 
-      const baseData = getFileAtRef(mergeBase, GEOJSON_FILE);
-      const mainData = getFileAtRef("origin/main", GEOJSON_FILE);
-      const prData = getFileAtRef(`origin/${branch}`, GEOJSON_FILE);
+      // Collect all geojson files across all three refs
+      const allFiles = new Set([
+        ...listGeoJSONFiles(mergeBase),
+        ...listGeoJSONFiles("origin/main"),
+        ...listGeoJSONFiles(`origin/${branch}`),
+      ]);
 
-      if (!baseData || !mainData || !prData) {
-        console.log(`  Could not read ${GEOJSON_FILE} from all refs — skipping.`);
-        continue;
-      }
-
-      const resolved = resolveFeatures(baseData, mainData, prData);
-
-      // Check out the PR branch, update the file, and push
+      // Check out the PR branch and merge main
       run(`git checkout -f origin/${branch}`);
       run(`git checkout -b temp-resolve-${pr.number}`);
 
-      // Merge main into the branch, accepting ours for conflicts temporarily
       try {
         run(`git merge origin/main -X ours --no-edit`);
       } catch {
-        // If merge still fails, manually resolve
-        const fs = require("fs");
-        fs.writeFileSync(
-          GEOJSON_FILE,
-          JSON.stringify(resolved, null, 2) + "\n"
+        // If merge fails, we'll resolve manually below
+        for (const file of allFiles) {
+          run(`git add ${file} 2>/dev/null || true`);
+        }
+        run(`git add index.json 2>/dev/null || true`);
+        run(
+          `git -c user.name="github-actions[bot]" -c user.email="github-actions[bot]@users.noreply.github.com" commit --no-edit`
         );
-        run(`git add ${GEOJSON_FILE}`);
-        run(`git -c user.name="github-actions[bot]" -c user.email="github-actions[bot]@users.noreply.github.com" commit --no-edit`);
       }
 
-      // Overwrite with our properly resolved version
-      const fs = require("fs");
-      fs.writeFileSync(
-        GEOJSON_FILE,
-        JSON.stringify(resolved, null, 2) + "\n"
-      );
+      // Resolve each geojson file
+      const countryCodes = new Set();
 
-      // Check if the file actually changed after resolution
-      const diff = run(`git diff --name-only`);
-      if (diff.includes(GEOJSON_FILE)) {
-        run(`git add ${GEOJSON_FILE}`);
+      for (const file of allFiles) {
+        const emptyCollection = { type: "FeatureCollection", features: [] };
+        const baseData = getFileAtRef(mergeBase, file) || emptyCollection;
+        const mainData = getFileAtRef("origin/main", file) || emptyCollection;
+        const prData =
+          getFileAtRef(`origin/${branch}`, file) || emptyCollection;
+
+        const resolved = resolveFeatures(baseData, mainData, prData);
+
+        if (resolved.features.length === 0) continue;
+
+        countryCodes.add(path.basename(file, ".geojson"));
+
+        fs.mkdirSync(path.dirname(file), { recursive: true });
+        fs.writeFileSync(file, JSON.stringify(resolved, null, 2) + "\n");
+        run(`git add ${file}`);
+      }
+
+      // Update index.json
+      const sortedCodes = [...countryCodes].sort();
+      fs.writeFileSync(
+        "index.json",
+        JSON.stringify({ countries: sortedCodes }, null, 2) + "\n"
+      );
+      run("git add index.json");
+
+      const diff = run("git diff --cached --name-only");
+      if (diff.length > 0) {
         run(
-          `git -c user.name="github-actions[bot]" -c user.email="github-actions[bot]@users.noreply.github.com" commit -m "Resolve data.geojson conflicts with main"`
+          `git -c user.name="github-actions[bot]" -c user.email="github-actions[bot]@users.noreply.github.com" commit -m "Resolve geojson conflicts with main"`
         );
       }
 

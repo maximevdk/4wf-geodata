@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          9.4602706,
+          55.5134833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "category": "shopping",
+        "description": "Changing and nursing area, one story down in front of the cinema",
+        "has_changing_area": true,
+        "has_child_seats": false,
+        "has_nursing_area": true,
+        "has_playground": false,
+        "id": "8E94DD0C-A2B0-42A8-8F6D-10D4F92ED280",
+        "is_wheelchair_accessible": true,
+        "name": "Kolding Storcenter",
+        "notes": "",
+        "verified": true
+      },
+      "type": "Feature"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": ["type", "features"],
+  "additionalProperties": false,
+  "properties": {
+    "type": {
+      "const": "FeatureCollection"
+    },
+    "features": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["geometry", "properties", "type"],
+        "additionalProperties": false,
+        "properties": {
+          "type": {
+            "const": "Feature"
+          },
+          "geometry": {
+            "type": "object",
+            "required": ["coordinates", "type"],
+            "additionalProperties": false,
+            "properties": {
+              "type": {
+                "const": "Point"
+              },
+              "coordinates": {
+                "type": "array",
+                "items": { "type": "number" },
+                "minItems": 2,
+                "maxItems": 2
+              }
+            }
+          },
+          "properties": {
+            "type": "object",
+            "required": [
+              "category",
+              "description",
+              "has_changing_area",
+              "has_child_seats",
+              "has_nursing_area",
+              "has_playground",
+              "id",
+              "is_wheelchair_accessible",
+              "name",
+              "notes",
+              "verified"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "category": {
+                "type": "string",
+                "enum": ["cafe", "restaurant", "playground", "library", "shopping", "medical", "other"]
+              },
+              "description": { "type": "string" },
+              "has_changing_area": { "type": "boolean" },
+              "has_child_seats": { "type": "boolean" },
+              "has_nursing_area": { "type": "boolean" },
+              "has_playground": { "type": "boolean" },
+              "id": { "type": "string" },
+              "is_wheelchair_accessible": { "type": "boolean" },
+              "name": { "type": "string" },
+              "notes": { "type": "string" },
+              "verified": { "type": "boolean" }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          4.703674393286258,
+          50.880669843410374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "category": "library",
+        "description": "One floor down, accessible through the elevator there’s a changing area. It is really exposed as it’s outside the toilets.",
+        "has_changing_area": true,
+        "has_child_seats": false,
+        "has_nursing_area": false,
+        "has_playground": false,
+        "id": "EA0E470A-1E72-4466-9C46-FA23DEF66127",
+        "is_wheelchair_accessible": true,
+        "name": "Leuven Public Library",
+        "notes": "",
+        "verified": false
+      },
+      "type": "Feature"
+    }
+  ]
+}
