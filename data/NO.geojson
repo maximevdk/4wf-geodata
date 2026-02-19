@@ -281,29 +281,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          7.990475,
-          58.1453122
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "3A676A28-6166-4EA3-9955-63DB967D1E78",
-        "is_wheelchair_accessible": true,
-        "name": "Subway Kristiansand",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.74108,
           59.9153224
         ],
@@ -1546,29 +1523,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.800309,
-          59.917748
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "E3847137-6716-4B16-A9D2-A3FA7218A331",
-        "is_wheelchair_accessible": false,
-        "name": "Folkets Kebab",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.20363,
           59.739014
         ],
@@ -2389,29 +2343,6 @@
         "id": "BDD2122E-D661-49D1-8448-9953C7B4FA20",
         "is_wheelchair_accessible": true,
         "name": "Sellanraa bok & bar",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          5.3241601,
-          60.398805
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "92F82163-4C40-483B-B0A3-0B98059E4A44",
-        "is_wheelchair_accessible": false,
-        "name": "Nirvana Kebab",
         "notes": "",
         "verified": false
       }
@@ -3685,29 +3616,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          5.7356842,
-          58.8521169
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "51584B1E-1B40-4928-9AF6-6029B9618252",
-        "is_wheelchair_accessible": false,
-        "name": "Kebaben",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.268451,
           59.6974779
         ],
@@ -3815,29 +3723,6 @@
         "id": "3922AE14-470A-4F7C-B489-36C7C56C0E27",
         "is_wheelchair_accessible": false,
         "name": "Frogn bibliotek",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.4005623,
-          63.4341451
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "67CB3916-D3D8-4C83-9FF1-0EA9ECFC3B3D",
-        "is_wheelchair_accessible": false,
-        "name": "Star Kebab",
         "notes": "",
         "verified": false
       }
@@ -7687,29 +7572,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.601885,
-          59.909408
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "A546734C-C82A-4824-87CD-559CC8FD7105",
-        "is_wheelchair_accessible": true,
-        "name": "Stabekk Kebab",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           6.2528334,
           59.4835793
         ],
@@ -7863,29 +7725,6 @@
         "id": "D1F00E09-A120-42BD-8364-4F748709A162",
         "is_wheelchair_accessible": false,
         "name": "Kafé Munck",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          5.7417377,
-          58.934839
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "7BE13E9A-A1BF-4D78-A595-ED7B6314C8A5",
-        "is_wheelchair_accessible": false,
-        "name": "Kebaben",
         "notes": "",
         "verified": false
       }
@@ -8070,29 +7909,6 @@
         "id": "2246AD07-AC17-4D3D-9F05-13DF341B3F75",
         "is_wheelchair_accessible": false,
         "name": "Skedsmo bibliotek",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          8.1325872,
-          58.1796947
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "003D4217-2EEC-4DB2-AB8E-314C7B52DE94",
-        "is_wheelchair_accessible": false,
-        "name": "Junes Thaimat",
         "notes": "",
         "verified": false
       }
@@ -9458,29 +9274,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.7610756,
-          59.9125472
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "282F2922-CC32-44C3-98A8-6C417D73BA71",
-        "is_wheelchair_accessible": false,
-        "name": "Beirut Kebab",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.4471012,
           63.4570564
         ],
@@ -10301,29 +10094,6 @@
         "id": "36D005DA-2D58-49B4-818E-187B973175A3",
         "is_wheelchair_accessible": false,
         "name": "Korsgård Skole Lekeplass",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          5.2699925,
-          60.3863812
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "26F62028-0632-46C2-800B-94B4C02F75E9",
-        "is_wheelchair_accessible": false,
-        "name": "Daniel Rullekebab",
         "notes": "",
         "verified": false
       }
@@ -11988,29 +11758,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          8.1277966,
-          58.1775168
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "12A88ADB-6BB3-46F5-BEC3-AE65EB36FE8A",
-        "is_wheelchair_accessible": false,
-        "name": "Subway Sørlandssenteret",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           5.3541065,
           60.3175684
         ],
@@ -13644,29 +13391,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.4885154,
-          59.8638251
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "203AA451-B2EF-471D-8B79-32354C2E57F8",
-        "is_wheelchair_accessible": false,
-        "name": "Nesbru Kebab \"Babben\"",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           14.4832407,
           67.2778885
         ],
@@ -13797,29 +13521,6 @@
         "id": "DF39696A-8A3B-46AA-B951-77E1AEDC378D",
         "is_wheelchair_accessible": false,
         "name": "Ishuset",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.867836,
-          59.952086
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "CE755DAB-4878-4A95-A263-266FA62F74D9",
-        "is_wheelchair_accessible": false,
-        "name": "Bislett Kebab House Kalbakken",
         "notes": "",
         "verified": false
       }
@@ -16128,29 +15829,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.5245078,
-          59.8924872
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "BC5AC6BD-F3FA-4B15-9AAF-64B429D62FA8",
-        "is_wheelchair_accessible": false,
-        "name": "Sporvogna kebab",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           5.759577,
           58.96228
         ],
@@ -16565,29 +16243,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          5.3199825,
-          60.3930569
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "78C7D929-4DE2-44A1-A0A3-FE8EDDD101C1",
-        "is_wheelchair_accessible": false,
-        "name": "Bergen Kebab",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           18.8751808,
           69.6947468
         ],
@@ -16649,29 +16304,6 @@
         "id": "485DEBBE-46CC-4CA4-ADFD-82F07DB16433",
         "is_wheelchair_accessible": false,
         "name": "Tunco",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.832866,
-          59.944043
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "79E94FEC-5C5C-4541-8DFB-94D763812592",
-        "is_wheelchair_accessible": false,
-        "name": "Bislett Kebab House Linderud",
         "notes": "",
         "verified": false
       }
@@ -17155,29 +16787,6 @@
         "id": "069A6AE4-E7E7-4E28-8D34-497B6824E277",
         "is_wheelchair_accessible": true,
         "name": "Godt Brød",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          5.2324496,
-          59.7391348
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "playground",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "D7341ED9-9583-490C-A29F-85A9A94DDD08",
-        "is_wheelchair_accessible": false,
-        "name": "Kuleseid fotballbane",
         "notes": "",
         "verified": false
       }
@@ -17945,29 +17554,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.778343,
-          59.929482
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "28E85BC0-FFD5-4CF7-96F3-CA8A8BEA163D",
-        "is_wheelchair_accessible": false,
-        "name": "Bislett Kebab House Carl Berner",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.865052,
           60.058307
         ],
@@ -18282,29 +17868,6 @@
         "id": "32A8E651-CC43-4AEC-8D2A-EF8A492E10CE",
         "is_wheelchair_accessible": false,
         "name": "Book booth",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          5.2820849,
-          60.354081
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "playground",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "54FAEC84-0CC6-469E-9CB2-DD34D645A82F",
-        "is_wheelchair_accessible": false,
-        "name": "Knøtte-fotballbane",
         "notes": "",
         "verified": false
       }
@@ -19647,29 +19210,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.7595715,
-          59.9190949
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "FA1E7E21-1827-4992-8AD4-533FB95D66C9",
-        "is_wheelchair_accessible": false,
-        "name": "Happy Time",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           5.8453224,
           58.9217627
         ],
@@ -19800,29 +19340,6 @@
         "id": "F0B43106-5283-44DD-B29C-2F534CA2A368",
         "is_wheelchair_accessible": false,
         "name": "Østensjø Havn",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          6.0546597,
-          61.0777463
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "other",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "550EF001-2B5C-4870-84E1-3B721A00BF56",
-        "is_wheelchair_accessible": false,
-        "name": "Brydalseter",
         "notes": "",
         "verified": false
       }
@@ -21970,29 +21487,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.5994384,
-          59.9475898
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "playground",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "BF67FF42-F2F8-42F0-9E81-A1406655DD19",
-        "is_wheelchair_accessible": false,
-        "name": "Leo’s Lekeland",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.7386766,
           59.9093772
         ],
@@ -22890,29 +22384,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          7.9966487,
-          58.1446063
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "2A17F74D-CBE6-4C6D-9D97-89AD79A17F08",
-        "is_wheelchair_accessible": false,
-        "name": "Happy Time Kristiansand",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           7.3375428,
           58.2020393
         ],
@@ -22936,29 +22407,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          5.3278165,
-          60.3943989
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "F41929E9-AE83-4505-8269-D5D4C140DB49",
-        "is_wheelchair_accessible": false,
-        "name": "Le Mathis",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.685,
           59.905
         ],
@@ -22974,29 +22422,6 @@
         "id": "9D8EBEB8-C8F4-48FE-AE93-892DEC79928A",
         "is_wheelchair_accessible": false,
         "name": "Café Hjemme Hos Svigers",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.2137943,
-          59.1717815
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "playground",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "AE1C80E5-D304-4411-8724-97067D7A9235",
-        "is_wheelchair_accessible": false,
-        "name": "Hunsrød Fotball Felt 1",
         "notes": "",
         "verified": false
       }
@@ -23442,29 +22867,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          11.9924989,
-          60.2036361
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "playground",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "54A7B9ED-3D62-4FAC-BB9B-FF3E7D5B126D",
-        "is_wheelchair_accessible": false,
-        "name": "Barkveien lekeplass og fotballbane",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.6286576,
           59.6634108
         ],
@@ -23825,29 +23227,6 @@
         "id": "32E10569-79CF-47AF-9CE8-C3FDB2B25877",
         "is_wheelchair_accessible": true,
         "name": "Litteraturhuset Bergen",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          5.329191,
-          60.386982
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "07CC64F8-4B58-4904-B04A-5915F4D6CCD1",
-        "is_wheelchair_accessible": true,
-        "name": "Valeri Kebab",
         "notes": "",
         "verified": false
       }
@@ -24546,29 +23925,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          5.7072729,
-          58.9666977
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "1F2A42A8-6D90-4AC1-8E71-085B582C7049",
-        "is_wheelchair_accessible": false,
-        "name": "Lille Thai Takeaway",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           5.31683,
           60.394161
         ],
@@ -24684,36 +24040,13 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          5.7335897,
-          58.9711943
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "8A515128-3E1B-4F81-943D-8A8FC11344FD",
-        "is_wheelchair_accessible": true,
-        "name": "Kult. Kafeen",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           5.3268329,
           60.3928531
         ],
         "type": "Point"
       },
       "properties": {
-        "category": "other",
+        "category": "shopping",
         "description": "",
         "has_changing_area": true,
         "has_child_seats": false,
@@ -24822,29 +24155,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.807138,
-          59.833519
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "9658593B-E3E2-40B6-8749-47D0147B0C6F",
-        "is_wheelchair_accessible": false,
-        "name": "Bislett Kebab House Prinsdal",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           12.6221773,
           65.9896759
         ],
@@ -24859,7 +24169,7 @@
         "has_playground": true,
         "id": "B606450E-F8FD-4642-90C7-665AD1712C0C",
         "is_wheelchair_accessible": false,
-        "name": "Lekeplass",
+        "name": "Playground",
         "notes": "",
         "verified": false
       }
@@ -24906,29 +24216,6 @@
         "id": "0C10C4DB-59EF-4AF8-9969-57B0AC256D34",
         "is_wheelchair_accessible": false,
         "name": "Public toilets (with changing table)",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.7131747,
-          59.9247558
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "8F887004-1FE7-4A92-AEC4-326E84F1F25A",
-        "is_wheelchair_accessible": false,
-        "name": "Happy foods",
         "notes": "",
         "verified": false
       }
@@ -27260,29 +26547,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.84,
-          59.92
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "playground",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "6054BCBB-348E-429D-ADE4-A6D07905667E",
-        "is_wheelchair_accessible": false,
-        "name": "Leo's Lekeland Oslo",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           5.3234691,
           60.3948079
         ],
@@ -28387,29 +27651,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.3927702,
-          63.4320975
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "851976A1-756C-4D8B-B662-275857FC3DC6",
-        "is_wheelchair_accessible": false,
-        "name": "Mir Kebab",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.759011,
           59.9257295
         ],
@@ -28701,29 +27942,6 @@
         "id": "2B34CEE1-86DB-4CDD-BAC9-233E90A2DE97",
         "is_wheelchair_accessible": false,
         "name": "Tunco",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          5.3253052,
-          60.4000485
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "44EF86B1-6E35-44C6-AD74-4F5A597E1E87",
-        "is_wheelchair_accessible": false,
-        "name": "Emil Kebab",
         "notes": "",
         "verified": false
       }
@@ -29115,29 +28333,6 @@
         "id": "C66250DB-DA99-48D6-8D95-6102AC26174F",
         "is_wheelchair_accessible": false,
         "name": "Askes Lekplats",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          11.1895488,
-          60.2557032
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "playground",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "CC14B107-EC70-46A2-9FA2-7A92D4A99466",
-        "is_wheelchair_accessible": false,
-        "name": "Fotballbane - Bjørnsrud Skog R4",
         "notes": "",
         "verified": false
       }
@@ -30204,29 +29399,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          5.2532476,
-          60.2943115
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "playground",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "BC26FF1A-8962-424C-9E99-AD26EA779F59",
-        "is_wheelchair_accessible": false,
-        "name": "Leo's Lekeland Bergen",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           11.0106558,
           59.9476831
         ],
@@ -30403,29 +29575,6 @@
         "id": "7CEDE656-D90C-4F69-9ED5-EBA082EBDDF6",
         "is_wheelchair_accessible": false,
         "name": "Hurramegrundt",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.7646334,
-          59.9195232
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "5AA2BD93-4FEB-4A96-8E87-894A5B170BDE",
-        "is_wheelchair_accessible": false,
-        "name": "L'Oasis Restaurant",
         "notes": "",
         "verified": false
       }
@@ -30817,29 +29966,6 @@
         "id": "A0D1ACDA-6B3F-4F65-BFEE-1772E66F83E2",
         "is_wheelchair_accessible": false,
         "name": "vidjeveien lekeplass",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.770051,
-          59.942339
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "88CA34B4-DABB-4770-94FE-CA31298AA049",
-        "is_wheelchair_accessible": false,
-        "name": "Bislett Kebab House Sandaker",
         "notes": "",
         "verified": false
       }
@@ -31561,29 +30687,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.4321711,
-          63.4430091
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "playground",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "3E40FD4B-81B7-46CC-9FD6-12021F385AFC",
-        "is_wheelchair_accessible": false,
-        "name": "Leo's lekeland",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.730205,
           59.9699574
         ],
@@ -32036,29 +31139,6 @@
         "id": "3A6C7737-A76E-4EEA-889B-155466C829C4",
         "is_wheelchair_accessible": false,
         "name": "Encore Kafe & Konditori Oslo",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.778617,
-          59.931394
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "5CC36DCE-04B5-4449-85BE-58356CB1EB0C",
-        "is_wheelchair_accessible": false,
-        "name": "Ploy's Thai Mat",
         "notes": "",
         "verified": false
       }
@@ -33125,29 +32205,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.7538702,
-          59.9134696
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "3388D232-0CBE-4D98-9AF0-5F1C2664E8CA",
-        "is_wheelchair_accessible": false,
-        "name": "Vinny's Kebab",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.3979344,
           63.4310452
         ],
@@ -33324,29 +32381,6 @@
         "id": "F1DD4404-1D8B-405C-AB7E-0C183F6B0AF5",
         "is_wheelchair_accessible": false,
         "name": "will.i.juice",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          5.6513373,
-          58.8826317
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "C62167A2-816D-489D-BBEE-ED029D4D4527",
-        "is_wheelchair_accessible": false,
-        "name": "Phad thai, Sola",
         "notes": "",
         "verified": false
       }
@@ -33646,29 +32680,6 @@
         "id": "24E6DB50-7EF6-49B4-8986-2E289D30B26C",
         "is_wheelchair_accessible": false,
         "name": "Furuholmen",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.7507374,
-          59.9282444
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "240206AA-BFBD-4447-822A-D9CD2E47BA37",
-        "is_wheelchair_accessible": false,
-        "name": "Kebabtoppen",
         "notes": "",
         "verified": false
       }
@@ -34083,29 +33094,6 @@
         "id": "7E39D6E1-065B-4259-A7A5-3E26A8B91B25",
         "is_wheelchair_accessible": false,
         "name": "Ulvekula",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.8539726,
-          59.8916952
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "playground",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "46DC27F6-D94E-4705-9019-FCC5408FB598",
-        "is_wheelchair_accessible": false,
-        "name": "Leo's lekeland",
         "notes": "",
         "verified": false
       }
@@ -35287,29 +34275,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.7484022,
-          59.911168
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "EBA2F694-AC45-4BFE-8DFA-A4785D600AC1",
-        "is_wheelchair_accessible": false,
-        "name": "Dronningens kebab",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.7222278,
           59.9324952
         ],
@@ -35555,29 +34520,6 @@
         "id": "4051FF01-9A61-4F5F-AFB6-9893A893A2C7",
         "is_wheelchair_accessible": false,
         "name": "Furuset bibliotek og aktivitetshus - FUBIAK",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          5.2540655,
-          60.2942559
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "playground",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "DADC326B-79A5-4108-8D0B-FD26E3CA4910",
-        "is_wheelchair_accessible": false,
-        "name": "Leo's Lekeland",
         "notes": "",
         "verified": false
       }
@@ -36253,29 +35195,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          5.2141261,
-          60.4444946
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "playground",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "4AB968EA-E2E5-40EC-AFF6-45F536F58C45",
-        "is_wheelchair_accessible": false,
-        "name": "Fotballbane",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           14.4184069,
           67.2964982
         ],
@@ -36406,29 +35325,6 @@
         "id": "0AEAE040-E53C-460B-AB26-1B1735B6B9B3",
         "is_wheelchair_accessible": true,
         "name": "Public toilets (with changing table)",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.950821,
-          59.944907
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "FA65C6CB-BDA4-470A-BE55-DC83C1A16B5E",
-        "is_wheelchair_accessible": false,
-        "name": "Bislett Kebab House Lørenskog",
         "notes": "",
         "verified": false
       }
@@ -37694,29 +36590,6 @@
         "id": "4B2AA497-8395-4CB5-A70B-968DB2030237",
         "is_wheelchair_accessible": false,
         "name": "Stallerudhytta",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          5.3231847,
-          60.3892646
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "A3AD237D-5377-4EDA-B4B5-2E0089848A0F",
-        "is_wheelchair_accessible": false,
-        "name": "Kebab huset",
         "notes": "",
         "verified": false
       }
@@ -39166,29 +38039,6 @@
         "id": "869D774F-6401-4C75-A216-BDCFD9B09ABF",
         "is_wheelchair_accessible": false,
         "name": "Chipsticks",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.7804383,
-          59.9453322
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "4AD64B02-B466-4F19-9D2D-B7D37FD89492",
-        "is_wheelchair_accessible": false,
-        "name": "New Winny Kebab",
         "notes": "",
         "verified": false
       }
