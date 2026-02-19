@@ -994,29 +994,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.7927613,
-          59.8307432
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "F405C7E9-F347-45D0-8D38-40B1FCAC3848",
-        "is_wheelchair_accessible": false,
-        "name": "Holmlia Grill",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.4119293,
           63.434797
         ],
@@ -1477,29 +1454,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.737372,
-          59.918503
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "504E8601-A46E-4125-A9B2-5DF59C78C373",
-        "is_wheelchair_accessible": false,
-        "name": "Blitz-Kafé",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.7839923,
           59.8306812
         ],
@@ -1937,29 +1891,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          11.1021102,
-          60.023873
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "74BA8825-AA0D-46EE-8DD7-E72C0643C69A",
-        "is_wheelchair_accessible": false,
-        "name": "Frogner Grill",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.767026,
           59.911564
         ],
@@ -2328,29 +2259,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.4004164,
-          63.4306015
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "BDD2122E-D661-49D1-8448-9953C7B4FA20",
-        "is_wheelchair_accessible": true,
-        "name": "Sellanraa bok & bar",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.7801561,
           59.9263848
         ],
@@ -2504,29 +2412,6 @@
         "id": "37B56732-F782-4813-BD93-B14D19831840",
         "is_wheelchair_accessible": false,
         "name": "Baker Hansen",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.781042,
-          59.911923
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "37FBEA54-7F38-4428-BF27-7DD6BE6F2865",
-        "is_wheelchair_accessible": false,
-        "name": "Kampen Kaffe & Bar",
         "notes": "",
         "verified": false
       }
@@ -3018,29 +2903,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.714181,
-          59.9298576
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "AEDADB7C-2477-4124-8FAC-A2D171CE7C17",
-        "is_wheelchair_accessible": false,
-        "name": "Perrongen sportspub",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.7247553,
           59.9409781
         ],
@@ -3286,29 +3148,6 @@
         "id": "A93BB97B-4478-48E0-82FC-55B54EBBFA67",
         "is_wheelchair_accessible": false,
         "name": "Dalen Lekeplass",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          5.6940148,
-          58.9539354
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "0CF04DE4-C9E8-4F88-B9CB-62FF575E8E8A",
-        "is_wheelchair_accessible": false,
-        "name": "Pucken Sportskafe",
         "notes": "",
         "verified": false
       }
@@ -3953,29 +3792,6 @@
         "id": "C9A92640-D206-4F8E-83FE-C2BB74D1B476",
         "is_wheelchair_accessible": false,
         "name": "Frøilandslekeplassen",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          8.1338305,
-          58.177964
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "A60F8DF6-3569-411C-A8F4-3B678158F774",
-        "is_wheelchair_accessible": true,
-        "name": "Burger King Sørlandsparken",
         "notes": "",
         "verified": false
       }
@@ -4643,29 +4459,6 @@
         "id": "97551D82-6493-441E-B509-FB48D59AD13C",
         "is_wheelchair_accessible": false,
         "name": "Smakeriet",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          18.925789,
-          69.6337633
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "ECE13273-CEC5-4A71-A57E-8B36C1C5EC6F",
-        "is_wheelchair_accessible": false,
-        "name": "Ragnarok Burger & Grill",
         "notes": "",
         "verified": false
       }
@@ -5494,29 +5287,6 @@
         "id": "8E07872E-8C1D-4B51-AD7A-4B051F12B186",
         "is_wheelchair_accessible": false,
         "name": "Setra",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          5.6812964,
-          58.9948875
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "E217E45C-42CD-4363-9755-172E54DBBDF5",
-        "is_wheelchair_accessible": false,
-        "name": "China grill & takeaway",
         "notes": "",
         "verified": false
       }
@@ -6399,29 +6169,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          7.9896443,
-          58.1457948
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "49C78A15-2D36-4423-B660-4FB4BAE4C4CF",
-        "is_wheelchair_accessible": false,
-        "name": "Midnight Cafe",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           5.6237871,
           58.998262
         ],
@@ -6997,29 +6744,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          18.958116,
-          69.65189
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "25EC4458-293D-4464-930A-3D78A088ABD0",
-        "is_wheelchair_accessible": false,
-        "name": "Food Court Grill",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.721044,
           59.9073661
         ],
@@ -7227,29 +6951,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          18.9079417,
-          69.6795565
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "B41210C8-3379-4FA1-AC5E-C2E25451211D",
-        "is_wheelchair_accessible": false,
-        "name": "SAS Café Lounge",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           5.325583,
           60.3939945
         ],
@@ -7288,29 +6989,6 @@
         "id": "1A1EAEDA-0D9D-46FC-BD53-9A27A6419C9D",
         "is_wheelchair_accessible": false,
         "name": "Birkemo",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          8.7191402,
-          58.4663395
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "F715B540-9A12-45C9-8A7A-F35FA991BD6E",
-        "is_wheelchair_accessible": true,
-        "name": "Burger King Stoa",
         "notes": "",
         "verified": false
       }
@@ -8354,29 +8032,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          19.0711425,
-          69.6841978
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "218919F7-21C4-4C1E-A9E2-3F778A1098F0",
-        "is_wheelchair_accessible": false,
-        "name": "Grillkroken",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.9247982,
           59.9612048
         ],
@@ -8415,29 +8070,6 @@
         "id": "3D528C34-06D0-49B4-9794-65B4C4651B3A",
         "is_wheelchair_accessible": false,
         "name": "Kaffebrenneriet",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          9.5152816,
-          58.9713031
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "02CFC581-A3A8-40BE-B715-09F1BC9A3F89",
-        "is_wheelchair_accessible": true,
-        "name": "Burger King Langrønningen",
         "notes": "",
         "verified": false
       }
@@ -8530,29 +8162,6 @@
         "id": "28DD87FB-D865-44D1-878D-3C9FA72B797E",
         "is_wheelchair_accessible": false,
         "name": "Skjelbreia",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          8.1472397,
-          58.1855212
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "3391525F-92E1-403C-B4DE-C313C7A9A690",
-        "is_wheelchair_accessible": false,
-        "name": "Kaptein Sabeltanns Sjørøver Grill",
         "notes": "",
         "verified": false
       }
@@ -10286,52 +9895,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          5.1256391,
-          60.3578013
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "369E946C-025D-4E06-9292-9E86B1D9C1ED",
-        "is_wheelchair_accessible": true,
-        "name": "Burger King Sartor",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          8.0924054,
-          58.1666323
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "2377A3BA-934F-4890-B38D-DE391B071C62",
-        "is_wheelchair_accessible": false,
-        "name": "HG Grillen",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           5.26168,
           59.150053
         ],
@@ -11244,29 +10807,6 @@
         "id": "2598BD3E-8292-4058-A9C3-67BFF79D96E2",
         "is_wheelchair_accessible": false,
         "name": "Flagghaugen barnepark",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.7642054,
-          59.9129107
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "68D4679F-C29B-43E5-9187-D70A0E761E32",
-        "is_wheelchair_accessible": false,
-        "name": "Stjerne Café og Grill",
         "notes": "",
         "verified": false
       }
@@ -13943,29 +13483,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.8055523,
-          59.8797672
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "B8EBF3BB-96D2-46BE-8D50-483AF5D5A7F1",
-        "is_wheelchair_accessible": false,
-        "name": "HOT SPICY GRILL",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.2648275,
           59.715439
         ],
@@ -15760,29 +15277,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          8.1290923,
-          58.1783668
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "656A8C74-6D59-4DD7-B7D2-4F8ABC1D61E0",
-        "is_wheelchair_accessible": true,
-        "name": "Burger King Sørlandssenteret",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           5.32536,
           60.411942
         ],
@@ -17293,29 +16787,6 @@
         "id": "130D340F-801F-41AB-A112-22A2DC2B94FB",
         "is_wheelchair_accessible": true,
         "name": "Polarn O. Pyret",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.9466123,
-          59.9413124
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "6B6FD5DE-C7F1-4191-A531-D2112D3730DB",
-        "is_wheelchair_accessible": false,
-        "name": "Robsrudjordet Grill",
         "notes": "",
         "verified": false
       }
@@ -18926,29 +18397,6 @@
         "id": "BB80BFED-EA62-4244-8AEF-28D10F0179B4",
         "is_wheelchair_accessible": true,
         "name": "Public toilets (with changing table)",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.7752068,
-          59.9263529
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "4815F5BA-0772-48AD-9AB4-430C0EFEDB19",
-        "is_wheelchair_accessible": false,
-        "name": "Carl Berner Grill",
         "notes": "",
         "verified": false
       }
@@ -20636,29 +20084,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.4118711,
-          63.4349222
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "179A2B92-A613-416E-969F-9382F26BD2CF",
-        "is_wheelchair_accessible": false,
-        "name": "Kvikk Bar",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           6.2384453,
           59.3484196
         ],
@@ -22100,29 +21525,6 @@
         "id": "CB229D5E-005B-455F-B2A4-8C62368846BD",
         "is_wheelchair_accessible": false,
         "name": "Smørtorget Kaffe & Mat",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.730525,
-          59.925416
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "59240A01-82A2-454F-A835-65C988582B42",
-        "is_wheelchair_accessible": false,
-        "name": "Laundromat",
         "notes": "",
         "verified": false
       }
@@ -23695,29 +23097,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.7726783,
-          59.9465416
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "3E1AF4D5-92B0-46F0-B9EA-4795FE3D3EB8",
-        "is_wheelchair_accessible": false,
-        "name": "Storo Grill",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.7863416,
           59.9120422
         ],
@@ -23871,29 +23250,6 @@
         "id": "44951EC2-9728-4197-98E7-5F7A773916C8",
         "is_wheelchair_accessible": true,
         "name": "Public toilets (with changing table)",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          5.3265662,
-          60.3980219
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "05B6BD15-5800-4BBF-89D8-25140BBA6DA1",
-        "is_wheelchair_accessible": false,
-        "name": "SKG vinkafé",
         "notes": "",
         "verified": false
       }
@@ -24400,29 +23756,6 @@
         "id": "21D267C1-E67A-4DCF-AA88-3BFB9BFAEB97",
         "is_wheelchair_accessible": false,
         "name": "Krohnhagen kafè og veksthus",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          9.072881,
-          58.821545
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "58E61CB1-89C7-4B6B-932C-3CB631BF5DE9",
-        "is_wheelchair_accessible": true,
-        "name": "Burger King Brokelandsheia",
         "notes": "",
         "verified": false
       }
@@ -25489,29 +24822,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.4009275,
-          63.4312357
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "EBDFCE7B-B2D6-4E6B-BFD9-682A2D9A6D20",
-        "is_wheelchair_accessible": false,
-        "name": "Digs Café & Bar",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           5.3290603,
           60.384284
         ],
@@ -25711,29 +25021,6 @@
         "id": "78327F87-27C1-4B56-B190-F99A44BC0CF8",
         "is_wheelchair_accessible": false,
         "name": "Colonialen Fetevare",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.4607061,
-          63.4211015
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "6DFAFD8C-0A88-49FE-8DD7-2328F52039B1",
-        "is_wheelchair_accessible": true,
-        "name": "Burger King Tungasletta",
         "notes": "",
         "verified": false
       }
@@ -26616,29 +25903,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          5.3257573,
-          60.3945345
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "2730A104-4CC6-431D-B0A0-0A77F72CEF57",
-        "is_wheelchair_accessible": false,
-        "name": "Dogtails",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.742296,
           59.913136
         ],
@@ -27375,29 +26639,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.7646141,
-          59.9237732
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "D7E2229F-BB7B-47B5-BC41-56DE4A3EB3B8",
-        "is_wheelchair_accessible": false,
-        "name": "Sofienberg Grill",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.7518663,
           59.9224302
         ],
@@ -27781,29 +27022,6 @@
         "id": "85CE809B-30A6-4BC9-A4BE-C41D38C2885E",
         "is_wheelchair_accessible": false,
         "name": "Café Generalen",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.3966494,
-          63.4331314
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "0537EC6D-97E5-4302-AF16-984799FB41FE",
-        "is_wheelchair_accessible": false,
-        "name": "Fly Chicken Trondheim",
         "notes": "",
         "verified": false
       }
@@ -28218,29 +27436,6 @@
         "id": "91164842-4989-4713-A75D-6ACB3BEFB30F",
         "is_wheelchair_accessible": true,
         "name": "Sammen Kristiania kafé",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.8012057,
-          59.810892
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "7B0B200F-9103-49AC-B052-DD0B3546D329",
-        "is_wheelchair_accessible": false,
-        "name": "Kolbotn Grill’d",
         "notes": "",
         "verified": false
       }
@@ -28816,29 +28011,6 @@
         "id": "560F46E4-3087-47A4-8AC3-702AC73D355F",
         "is_wheelchair_accessible": false,
         "name": "Hy’s",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          7.4613613,
-          58.0287101
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "4018D245-4A70-4E6F-8A41-26C8397DFD02",
-        "is_wheelchair_accessible": true,
-        "name": "Burger King Mandal",
         "notes": "",
         "verified": false
       }
@@ -29974,29 +29146,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          7.988068,
-          58.147288
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "0048F843-4765-48EB-9694-929D778C31CE",
-        "is_wheelchair_accessible": false,
-        "name": "Kvadraturen Grill og Kiosk",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           7.7407128,
           58.3834031
         ],
@@ -30104,29 +29253,6 @@
         "id": "9EA0B2AF-116E-4024-AADB-72CE08D770B5",
         "is_wheelchair_accessible": false,
         "name": "Kvinesdal bibliotek, Feda filial",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.894533,
-          60.027399
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "449709EF-499D-4AC2-9F03-890604198CD1",
-        "is_wheelchair_accessible": false,
-        "name": "X-burger og grill",
         "notes": "",
         "verified": false
       }
@@ -32274,29 +31400,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          5.725731,
-          58.873112
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "FA705373-7A16-45A9-AF51-755114FE6798",
-        "is_wheelchair_accessible": true,
-        "name": "Burger King, Lura",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           8.072213,
           58.1280035
         ],
@@ -32680,29 +31783,6 @@
         "id": "24E6DB50-7EF6-49B4-8986-2E289D30B26C",
         "is_wheelchair_accessible": false,
         "name": "Furuholmen",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.928449,
-          59.972502
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "66AD97D4-1D43-40F3-99CA-7DD88FDF554B",
-        "is_wheelchair_accessible": false,
-        "name": "Mathus Grill",
         "notes": "",
         "verified": false
       }
@@ -33278,29 +32358,6 @@
         "id": "01EA5B97-48C3-458B-8732-AB9725656CC5",
         "is_wheelchair_accessible": true,
         "name": "Public toilets (with changing table)",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.3495905,
-          63.3667446
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "19954B42-E457-453D-933A-81C613D50326",
-        "is_wheelchair_accessible": false,
-        "name": "Go2 Grill På Hjørnet",
         "notes": "",
         "verified": false
       }
@@ -36360,29 +35417,6 @@
         "id": "73E14657-D893-45DE-9CE7-BEC114B4063E",
         "is_wheelchair_accessible": false,
         "name": "Tuftepark",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          11.053553,
-          60.8426084
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": true,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "48B62268-0376-40EB-9F70-C859617D8718",
-        "is_wheelchair_accessible": true,
-        "name": "Burger King Ringsaker",
         "notes": "",
         "verified": false
       }
