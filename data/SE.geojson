@@ -97,29 +97,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          18.1234175,
-          59.4653479
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "playground",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "164D9783-7162-4A48-86F9-77CD3B06123D",
-        "is_wheelchair_accessible": false,
-        "name": "Leos Lekland",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           18.0090426,
           59.3392076
         ],
@@ -3823,29 +3800,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          18.1281201,
-          59.1987514
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "playground",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "D64E63F7-FE80-46CD-A37D-CDE8531BC2E4",
-        "is_wheelchair_accessible": false,
-        "name": "Leo's Lekland",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           18.1380456,
           59.3153645
         ],
@@ -4743,29 +4697,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          13.4471778,
-          59.3738339
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "playground",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "AEEC1B2C-F994-4952-8BBB-DDE3DC975E86",
-        "is_wheelchair_accessible": false,
-        "name": "Leo's Lekland",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           17.0623396,
           60.6697059
         ],
@@ -4781,29 +4712,6 @@
         "id": "FD388331-E983-4143-95F3-A5AE11C5404A",
         "is_wheelchair_accessible": false,
         "name": "Lindesnäsvägen",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          20.3244511,
-          63.8497478
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "playground",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "EC2BE79A-E3C1-4A70-BFC1-9B42F791F91B",
-        "is_wheelchair_accessible": false,
-        "name": "Leo's Lekland",
         "notes": "",
         "verified": false
       }
@@ -11068,29 +10976,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          17.924877,
-          59.2669314
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "playground",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "796B33FB-ACE1-45CE-BDCB-0184C3EA2D43",
-        "is_wheelchair_accessible": false,
-        "name": "Leos lekland",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           17.9760799,
           59.3753617
         ],
@@ -12670,29 +12555,6 @@
         "id": "5E420C51-3A57-40BB-8C9B-4D1165AA4968",
         "is_wheelchair_accessible": false,
         "name": "Förskolan Hagabergsgården",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          17.69578,
-          59.8451456
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "playground",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "941C2D9F-9FCC-49ED-99EB-FCEEC212E171",
-        "is_wheelchair_accessible": false,
-        "name": "Leo's Lekland",
         "notes": "",
         "verified": false
       }
@@ -20168,29 +20030,6 @@
         "id": "229E46BE-C465-41B8-8262-09EED48B89CE",
         "is_wheelchair_accessible": false,
         "name": "Lill-Haga",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          15.5936944,
-          58.4295305
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "playground",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "5E334DBD-5178-472D-9297-E9F00ECFDD52",
-        "is_wheelchair_accessible": false,
-        "name": "Leo's Lekland",
         "notes": "",
         "verified": false
       }
