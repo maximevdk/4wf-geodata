@@ -327,29 +327,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.7592255,
-          59.9189587
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "5D7C6ACD-9201-4276-BA7F-2B9A723ACEEA",
-        "is_wheelchair_accessible": false,
-        "name": "Flamme burger",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.870577,
           60.053088
         ],
@@ -733,52 +710,6 @@
         "id": "3321B88D-27AA-468E-9E59-295B849ADE3A",
         "is_wheelchair_accessible": false,
         "name": "Trollparken",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.7158051,
-          59.9167975
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "D90A3A63-2A35-4D4D-B858-89C7A3E25509",
-        "is_wheelchair_accessible": true,
-        "name": "French Tacos and Burgers avenue",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.7954406,
-          59.834883
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "441D03E8-DBF5-4D09-9E6E-5F7C93AA0CBF",
-        "is_wheelchair_accessible": false,
-        "name": "Jønk Burger",
         "notes": "",
         "verified": false
       }
@@ -1331,29 +1262,6 @@
         "id": "6B0D6995-8BD2-42F8-BA99-BB38C3C0784E",
         "is_wheelchair_accessible": false,
         "name": "Ungdommens hus lekeplass",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.7575475,
-          59.9207198
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "47F9DE5E-7E86-4712-B3B7-C901B70957EC",
-        "is_wheelchair_accessible": false,
-        "name": "East Kitchen",
         "notes": "",
         "verified": false
       }
@@ -2780,29 +2688,6 @@
         "id": "40FFD451-3655-4B55-8A48-FDCAFDB84728",
         "is_wheelchair_accessible": false,
         "name": "La Baguette",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.7497932,
-          59.9194961
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "892A6669-90BE-4698-8E7F-260EE42140D4",
-        "is_wheelchair_accessible": false,
-        "name": "Kitchen Afrique",
         "notes": "",
         "verified": false
       }
@@ -4927,29 +4812,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          5.320821,
-          60.3918025
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "1B8723A3-CE4E-49FD-87ED-FB3C3F554A12",
-        "is_wheelchair_accessible": true,
-        "name": "Burgerheim Engen",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.8047233,
           59.84696
         ],
@@ -5195,29 +5057,6 @@
         "id": "64E6D19A-E4B5-4445-AD7F-21356AD484A1",
         "is_wheelchair_accessible": false,
         "name": "Sophus Pihls gate lekeplass",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.738655,
-          59.916325
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "0542A424-6C99-4244-BB30-F6CEE61E9986",
-        "is_wheelchair_accessible": false,
-        "name": "Elias mat & sånt",
         "notes": "",
         "verified": false
       }
@@ -7932,29 +7771,6 @@
         "id": "FAB2E312-124D-472F-9535-CCD68B2EE66A",
         "is_wheelchair_accessible": true,
         "name": "Norsk Villakssenter",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          11.0494374,
-          59.9589103
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "AAF4C217-CCF7-4D4D-AD76-9F1788FE869D",
-        "is_wheelchair_accessible": false,
-        "name": "J&Co Burgers Lillestrøm",
         "notes": "",
         "verified": false
       }
@@ -11413,29 +11229,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.684178,
-          59.920312
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "104CF1B4-062F-4858-920C-183F1900DD22",
-        "is_wheelchair_accessible": false,
-        "name": "Japo shusi",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           6.8044037,
           58.0936416
         ],
@@ -11957,29 +11750,6 @@
         "id": "C53897AE-9F54-451A-B7A1-E1E7F6B8AC30",
         "is_wheelchair_accessible": false,
         "name": "Elvebakken lekeplass",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.7534384,
-          59.9169718
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "4B6AD283-156B-46DA-B7C3-D79DB7E160B1",
-        "is_wheelchair_accessible": false,
-        "name": "Falafel n' Juice",
         "notes": "",
         "verified": false
       }
@@ -13322,29 +13092,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.7579116,
-          59.9067689
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "8892C3E1-857C-4689-8DC8-15F52330576A",
-        "is_wheelchair_accessible": false,
-        "name": "Doug's Hamburgers",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.7998085,
           59.8613103
         ],
@@ -13774,29 +13521,6 @@
         "id": "8DE5A879-2A32-470D-B6BD-AE88F5A374FE",
         "is_wheelchair_accessible": false,
         "name": "Sveio folkebibliotek",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          11.137306,
-          60.0769202
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "E9F5801A-E4AA-4906-893C-E876D6052FAB",
-        "is_wheelchair_accessible": false,
-        "name": "Tom's Matbar",
         "notes": "",
         "verified": false
       }
@@ -15729,29 +15453,6 @@
         "id": "F6234CBE-0DDA-47C8-A145-58267B8354AE",
         "is_wheelchair_accessible": false,
         "name": "Grytelokket",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          18.8751808,
-          69.6947468
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "5B3AD900-D730-4CCD-963D-2C6F05152AF2",
-        "is_wheelchair_accessible": false,
-        "name": "BurgerMan Kvaløysletta",
         "notes": "",
         "verified": false
       }
@@ -17738,29 +17439,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.403049,
-          63.4330851
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "67376C88-3FB1-4DB9-A4DA-079207058520",
-        "is_wheelchair_accessible": false,
-        "name": "Super Hero Burger",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           5.3059193,
           60.3754931
         ],
@@ -19256,29 +18934,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.749295,
-          59.913441
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "06D032C9-D09C-4E10-BA39-479C097DD709",
-        "is_wheelchair_accessible": false,
-        "name": "Falafel me",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           5.432769,
           60.46368
         ],
@@ -19524,29 +19179,6 @@
         "id": "ECE9C177-A1D8-4723-9AE1-9900B0FB4056",
         "is_wheelchair_accessible": false,
         "name": "Pikene på hjørnet",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.3928345,
-          63.4292985
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "57C5F7EE-E916-49D4-8D58-8D71DDE6A2F4",
-        "is_wheelchair_accessible": false,
-        "name": "SuperHero Burger",
         "notes": "",
         "verified": false
       }
@@ -22223,29 +21855,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.7620099,
-          59.9185581
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "37031DA9-9815-43CC-A0B3-B7B995DBE812",
-        "is_wheelchair_accessible": false,
-        "name": "Jamals Falafel",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           5.7379698,
           58.9709425
         ],
@@ -23879,29 +23488,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          5.315997,
-          60.3923467
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "88B23AC6-C861-4C5C-8980-F0544787DA88",
-        "is_wheelchair_accessible": true,
-        "name": "Burgerhuset",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           13.1438756,
           66.3327191
         ],
@@ -23940,29 +23526,6 @@
         "id": "E8AC1895-1EBE-4649-8966-235F863B7C95",
         "is_wheelchair_accessible": false,
         "name": "Noi Delicatesse",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          19.0711071,
-          69.6842244
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "518292A3-8A4F-4516-91BE-1D307FF81F76",
-        "is_wheelchair_accessible": false,
-        "name": "Burgerkroken",
         "notes": "",
         "verified": false
       }
@@ -24400,29 +23963,6 @@
         "id": "7640F85A-EE65-4842-B987-96EE5EA3A32A",
         "is_wheelchair_accessible": false,
         "name": "Nobel Bobel",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.740626,
-          59.914853
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "CB0E50F6-1DAD-4B04-8C82-4D75E5C4A28E",
-        "is_wheelchair_accessible": false,
-        "name": "Digg Burger",
         "notes": "",
         "verified": false
       }
@@ -26616,29 +26156,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          5.7399677,
-          58.9702427
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "D3361866-3859-4F50-8345-133FDF6DD61D",
-        "is_wheelchair_accessible": false,
-        "name": "Hekkan burger",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.7518663,
           59.9224302
         ],
@@ -26884,29 +26401,6 @@
         "id": "4BC51D6E-1DF1-4C92-B886-15126A9A3329",
         "is_wheelchair_accessible": false,
         "name": "Ritazza",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.759011,
-          59.9257295
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "711321AC-D396-4D4E-BF21-324FE63D26FC",
-        "is_wheelchair_accessible": false,
-        "name": "Falaffel n' Juice",
         "notes": "",
         "verified": false
       }
@@ -27283,29 +26777,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.733653,
-          59.920501
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "468F392E-97BD-4C50-9ACF-A953125A1E3F",
-        "is_wheelchair_accessible": false,
-        "name": "Falafel n' Juice",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           5.4640494,
           59.7630016
         ],
@@ -27551,29 +27022,6 @@
         "id": "ABA3BD88-4BF9-4895-AD40-6C3AA3686A05",
         "is_wheelchair_accessible": true,
         "name": "Kaffebrenneriet",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.75943,
-          59.921481
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "2EC41E1E-7286-4C12-ADF2-A19B3EB8559F",
-        "is_wheelchair_accessible": false,
-        "name": "Isan Kitchen",
         "notes": "",
         "verified": false
       }
@@ -29882,29 +29330,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.7744798,
-          59.9124553
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "C4DBA5AB-9FA4-4740-A7BC-8B4143AEB2E1",
-        "is_wheelchair_accessible": false,
-        "name": "Tøyen Burger",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.432217,
           63.3107367
         ],
@@ -31047,29 +30472,6 @@
         "id": "1DA059E9-1A85-4908-8832-4E77C79222DA",
         "is_wheelchair_accessible": false,
         "name": "Kongsmyren lekeplass",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.7615109,
-          59.913026
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "BE23F444-6845-4718-9893-663B9D72DDCA",
-        "is_wheelchair_accessible": false,
-        "name": "Yummy Falafel",
         "notes": "",
         "verified": false
       }
@@ -37004,29 +36406,6 @@
         "id": "49B07002-2909-42F8-A369-EDC358B9ACC3",
         "is_wheelchair_accessible": false,
         "name": "Kaffebrenneriet",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          5.318307,
-          60.391957
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "cafe",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "1DCBFB8F-AA68-4DD3-8079-23C52E061C96",
-        "is_wheelchair_accessible": false,
-        "name": "Burgeren",
         "notes": "",
         "verified": false
       }
