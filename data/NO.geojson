@@ -816,7 +816,7 @@
         "type": "Point"
       },
       "properties": {
-        "category": "other",
+        "category": "shopping",
         "description": "",
         "has_changing_area": true,
         "has_child_seats": false,
@@ -6529,29 +6529,6 @@
         "id": "8658CD8B-3CA2-4C0A-8A22-278299DA15B5",
         "is_wheelchair_accessible": false,
         "name": "Karmøy folkebibliotek, Norheim filial",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          5.3330194,
-          60.3895402
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "other",
-        "description": "",
-        "has_changing_area": true,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "4C22D8A5-2D05-47C6-A1D9-1379DCAE5714",
-        "is_wheelchair_accessible": true,
-        "name": "Public toilets (with changing table)",
         "notes": "",
         "verified": false
       }
