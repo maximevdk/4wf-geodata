@@ -89,7 +89,7 @@ async function main() {
 
   console.log(`Found ${prs.length} open PR(s).`);
 
-  run("git fetch origin main");
+  run("git fetch origin master");
 
   for (const pr of prs) {
     const branch = pr.head.ref;
@@ -98,10 +98,10 @@ async function main() {
     try {
       run(`git fetch origin ${branch}`);
 
-      const mergeBase = run(`git merge-base origin/main origin/${branch}`);
+      const mergeBase = run(`git merge-base origin/master origin/${branch}`);
 
       // Try a test merge to see if there's a conflict
-      run("git checkout -f origin/main");
+      run("git checkout -f origin/master");
       try {
         run(`git merge --no-commit --no-ff origin/${branch} 2>&1`);
         run("git merge --abort 2>/dev/null || true");
@@ -116,7 +116,7 @@ async function main() {
       // Collect all geojson files across all three refs
       const allFiles = new Set([
         ...listGeoJSONFiles(mergeBase),
-        ...listGeoJSONFiles("origin/main"),
+        ...listGeoJSONFiles("origin/master"),
         ...listGeoJSONFiles(`origin/${branch}`),
       ]);
 
@@ -125,7 +125,7 @@ async function main() {
       run(`git checkout -b temp-resolve-${pr.number}`);
 
       try {
-        run(`git merge origin/main -X ours --no-edit`);
+        run(`git merge origin/master -X ours --no-edit`);
       } catch {
         // If merge fails, we'll resolve manually below
         for (const file of allFiles) {
@@ -143,7 +143,7 @@ async function main() {
       for (const file of allFiles) {
         const emptyCollection = { type: "FeatureCollection", features: [] };
         const baseData = getFileAtRef(mergeBase, file) || emptyCollection;
-        const mainData = getFileAtRef("origin/main", file) || emptyCollection;
+        const mainData = getFileAtRef("origin/master", file) || emptyCollection;
         const prData =
           getFileAtRef(`origin/${branch}`, file) || emptyCollection;
 
@@ -169,7 +169,7 @@ async function main() {
       const diff = run("git diff --cached --name-only");
       if (diff.length > 0) {
         run(
-          `git -c user.name="github-actions[bot]" -c user.email="github-actions[bot]@users.noreply.github.com" commit -m "Resolve geojson conflicts with main"`
+          `git -c user.name="github-actions[bot]" -c user.email="github-actions[bot]@users.noreply.github.com" commit -m "Resolve geojson conflicts with master"`
         );
       }
 
@@ -178,7 +178,7 @@ async function main() {
     } catch (err) {
       console.error(`  Failed to process PR #${pr.number}: ${err.message}`);
     } finally {
-      run("git checkout -f origin/main 2>/dev/null || true");
+      run("git checkout -f origin/master 2>/dev/null || true");
       run(`git branch -D temp-resolve-${pr.number} 2>/dev/null || true`);
     }
   }
