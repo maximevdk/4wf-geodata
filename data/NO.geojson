@@ -15618,5 +15618,24 @@
       "verified" : false
     },
     "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 6.156526297925637, 61.510816289924946 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "category" : "other",
+      "description" : "Public toilet and play ground with little beach.",
+      "has_changing_area" : true,
+      "has_child_seats" : false,
+      "has_nursing_area" : true,
+      "has_playground" : true,
+      "id" : "BB2435CC-A269-4DF9-87F1-6110DE75B618",
+      "is_wheelchair_accessible" : true,
+      "name" : "Jølstravanet",
+      "notes" : "Has enough opportunity to find a good place to nurse the baby.",
+      "verified" : false
+    },
+    "type" : "Feature"
   } ]
 }
