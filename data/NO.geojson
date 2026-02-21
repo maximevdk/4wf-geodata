@@ -1776,29 +1776,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.7590166,
-          59.9334354
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "playground",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "F5D8D645-4CF0-438E-8F99-90E5EC03EE48",
-        "is_wheelchair_accessible": false,
-        "name": "Lille Lab",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.7227946,
           59.9255891
         ],
@@ -7181,29 +7158,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          10.7594193,
-          59.9224899
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "shopping",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": false,
-        "id": "8ACC9AC7-8862-4A0B-A460-05E719F5D653",
-        "is_wheelchair_accessible": false,
-        "name": "Lillelam",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           10.7963291,
           59.787333
         ],
@@ -10094,29 +10048,6 @@
         "id": "D396D3D0-AE7D-443E-99BA-B6E15F8D630D",
         "is_wheelchair_accessible": false,
         "name": "Sørbø skole",
-        "notes": "",
-        "verified": false
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          10.7942909,
-          59.9271437
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "category": "playground",
-        "description": "",
-        "has_changing_area": false,
-        "has_child_seats": false,
-        "has_nursing_area": false,
-        "has_playground": true,
-        "id": "C096A322-A45C-40C1-8308-28542206EFFC",
-        "is_wheelchair_accessible": false,
-        "name": "Lille Lab Hasle",
         "notes": "",
         "verified": false
       }
