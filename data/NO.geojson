@@ -368,7 +368,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -501,7 +501,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -824,7 +824,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -881,7 +881,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -938,7 +938,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -1204,7 +1204,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -1242,7 +1242,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -1432,7 +1432,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -1584,7 +1584,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -1736,7 +1736,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -1774,7 +1774,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -2211,7 +2211,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -2230,7 +2230,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -2268,7 +2268,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -2458,7 +2458,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -2496,7 +2496,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -2572,7 +2572,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -2648,7 +2648,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -2667,7 +2667,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -2705,7 +2705,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -2781,7 +2781,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -2819,7 +2819,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -2838,7 +2838,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -2914,7 +2914,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -2933,7 +2933,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -2952,7 +2952,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -3028,7 +3028,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -3313,7 +3313,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -3370,7 +3370,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -3541,7 +3541,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -3579,7 +3579,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -3598,7 +3598,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -3636,7 +3636,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -3769,7 +3769,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -3864,7 +3864,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -3921,7 +3921,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -3959,7 +3959,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -3997,7 +3997,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -4035,7 +4035,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -4054,7 +4054,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -4073,7 +4073,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -4244,7 +4244,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -4263,7 +4263,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -4415,7 +4415,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -4548,7 +4548,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -4567,7 +4567,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -4662,7 +4662,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -4795,7 +4795,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -4928,7 +4928,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -5061,7 +5061,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -5156,7 +5156,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -5365,7 +5365,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -5441,7 +5441,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -5517,7 +5517,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -5745,7 +5745,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -5859,7 +5859,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -5973,7 +5973,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -6068,7 +6068,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -6163,7 +6163,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -6239,7 +6239,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -6296,7 +6296,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -6334,7 +6334,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -6676,7 +6676,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -7170,7 +7170,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -7265,7 +7265,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -7379,7 +7379,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -7417,7 +7417,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -7493,7 +7493,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -7588,7 +7588,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -7645,7 +7645,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -7911,7 +7911,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -7930,7 +7930,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -8253,7 +8253,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -8329,7 +8329,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -8386,7 +8386,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -8405,7 +8405,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -8481,7 +8481,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -8652,7 +8652,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -8709,7 +8709,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -8766,7 +8766,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -8785,7 +8785,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -9298,7 +9298,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -9317,7 +9317,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -9348,26 +9348,7 @@
       "notes" : "",
       "verified" : false
     }
-  }, {
-    "type" : "Feature",
-    "geometry" : {
-      "coordinates" : [ 10.752468, 59.908712 ],
-      "type" : "Point"
-    },
-    "properties" : {
-      "category" : "playground",
-      "description" : "",
-      "has_changing_area" : false,
-      "has_child_seats" : false,
-      "has_nursing_area" : false,
-      "has_playground" : true,
-      "id" : "AB5F5358-E240-4E34-A880-48EDC3C4BAF1",
-      "is_wheelchair_accessible" : true,
-      "name" : "Deichman Bjørvika",
-      "notes" : "",
-      "verified" : false
-    }
-  }, {
+  },{
     "type" : "Feature",
     "geometry" : {
       "coordinates" : [ 8.7496745, 59.9265303 ],
@@ -9393,7 +9374,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -9469,7 +9450,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -9526,7 +9507,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -9545,7 +9526,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -9602,7 +9583,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -9735,7 +9716,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -9792,7 +9773,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -9906,7 +9887,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -10229,7 +10210,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -10362,7 +10343,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -10381,7 +10362,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -10666,7 +10647,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -10742,7 +10723,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -11122,7 +11103,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -11141,7 +11122,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -11198,7 +11179,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -11255,7 +11236,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -11331,7 +11312,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -11369,7 +11350,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -11521,7 +11502,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -11597,7 +11578,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -11882,7 +11863,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -11920,7 +11901,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -12110,7 +12091,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -12129,7 +12110,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -12224,7 +12205,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -12376,7 +12357,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -12718,7 +12699,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -12756,7 +12737,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -12775,7 +12756,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -12851,7 +12832,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -12908,7 +12889,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -12984,7 +12965,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -13060,7 +13041,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -13098,7 +13079,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -13117,7 +13098,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -13155,7 +13136,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -13212,7 +13193,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -13573,7 +13554,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -13630,7 +13611,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -13668,7 +13649,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -13687,7 +13668,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -13896,7 +13877,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -13915,7 +13896,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -13934,7 +13915,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -14067,7 +14048,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -14086,7 +14067,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -14162,7 +14143,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -14295,7 +14276,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -14523,7 +14504,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
@@ -14542,7 +14523,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "category" : "playground",
+      "category" : "library",
       "description" : "",
       "has_changing_area" : false,
       "has_child_seats" : false,
