@@ -285,7 +285,7 @@
       "notes" : "",
       "verified" : false
     }
-  },{
+  }, {
     "type" : "Feature",
     "geometry" : {
       "coordinates" : [ 5.214053, 60.4446181 ],
@@ -418,7 +418,7 @@
       "notes" : "",
       "verified" : false
     }
-  },{
+  }, {
     "type" : "Feature",
     "geometry" : {
       "coordinates" : [ 10.7257503, 59.9234036 ],
@@ -1311,7 +1311,7 @@
       "notes" : "",
       "verified" : false
     }
-  },{
+  }, {
     "type" : "Feature",
     "geometry" : {
       "coordinates" : [ 5.6964474, 58.9466295 ],
@@ -2622,7 +2622,7 @@
       "notes" : "",
       "verified" : false
     }
-  },{
+  }, {
     "type" : "Feature",
     "geometry" : {
       "coordinates" : [ 17.9877154, 69.2302232 ],
@@ -3325,7 +3325,7 @@
       "notes" : "",
       "verified" : false
     }
-  },{
+  }, {
     "type" : "Feature",
     "geometry" : {
       "coordinates" : [ 5.3243155, 60.3991096 ],
@@ -3458,7 +3458,7 @@
       "notes" : "",
       "verified" : false
     }
-  },{
+  }, {
     "type" : "Feature",
     "geometry" : {
       "coordinates" : [ 5.726299, 58.8653623 ],
@@ -3496,7 +3496,7 @@
       "notes" : "",
       "verified" : false
     }
-  },{
+  }, {
     "type" : "Feature",
     "geometry" : {
       "coordinates" : [ 12.0024317, 60.1913957 ],
@@ -4674,7 +4674,7 @@
       "notes" : "",
       "verified" : false
     }
-  },{
+  }, {
     "type" : "Feature",
     "geometry" : {
       "coordinates" : [ 10.7142186, 59.8710772 ],
@@ -4883,7 +4883,7 @@
       "notes" : "",
       "verified" : false
     }
-  },{
+  }, {
     "type" : "Feature",
     "geometry" : {
       "coordinates" : [ 5.3672708, 60.3712229 ],
@@ -4902,7 +4902,7 @@
       "notes" : "",
       "verified" : false
     }
-  },{
+  }, {
     "type" : "Feature",
     "geometry" : {
       "coordinates" : [ 5.3299121, 60.2970258 ],
@@ -6441,7 +6441,7 @@
       "notes" : "",
       "verified" : false
     }
-  },{
+  }, {
     "type" : "Feature",
     "geometry" : {
       "coordinates" : [ 10.735549, 59.9667125 ],
@@ -6878,7 +6878,7 @@
       "notes" : "",
       "verified" : false
     }
-  },{
+  }, {
     "type" : "Feature",
     "geometry" : {
       "coordinates" : [ 6.9177123, 58.9416121 ],
@@ -9348,7 +9348,7 @@
       "notes" : "",
       "verified" : false
     }
-  },{
+  }, {
     "type" : "Feature",
     "geometry" : {
       "coordinates" : [ 8.7496745, 59.9265303 ],
@@ -9918,7 +9918,7 @@
       "notes" : "",
       "verified" : false
     }
-  },{
+  }, {
     "type" : "Feature",
     "geometry" : {
       "coordinates" : [ 10.7946179, 59.948394 ],
@@ -10507,7 +10507,7 @@
       "notes" : "",
       "verified" : false
     }
-  },{
+  }, {
     "type" : "Feature",
     "geometry" : {
       "coordinates" : [ 10.7163974, 59.8723367 ],
@@ -10925,7 +10925,7 @@
       "notes" : "",
       "verified" : false
     }
-  },{
+  }, {
     "type" : "Feature",
     "geometry" : {
       "coordinates" : [ 10.9126894, 59.9330194 ],
@@ -10963,7 +10963,7 @@
       "notes" : "",
       "verified" : false
     }
-  },{
+  }, {
     "type" : "Feature",
     "geometry" : {
       "coordinates" : [ 6.9323109, 58.5204439 ],
@@ -11153,7 +11153,7 @@
       "notes" : "",
       "verified" : false
     }
-  },{
+  }, {
     "type" : "Feature",
     "geometry" : {
       "coordinates" : [ 5.8495185, 58.9238984 ],
@@ -14608,6 +14608,25 @@
       "is_wheelchair_accessible" : true,
       "name" : "Jølstravanet",
       "notes" : "Has enough opportunity to find a good place to nurse the baby.",
+      "verified" : false
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 10.728480227252707, 59.91133978742757 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "category" : "other",
+      "description" : "Toilets one story down, accessible through elevator",
+      "has_changing_area" : true,
+      "has_child_seats" : false,
+      "has_nursing_area" : false,
+      "has_playground" : false,
+      "id" : "031EA723-027C-4D59-B339-024CA69A8E43",
+      "is_wheelchair_accessible" : true,
+      "name" : "Nasjonalmuseet",
+      "notes" : "",
       "verified" : false
     },
     "type" : "Feature"
