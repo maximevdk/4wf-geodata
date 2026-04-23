@@ -6,6 +6,12 @@ function run(cmd) {
   return execSync(cmd, { encoding: "utf-8" }).trim();
 }
 
+const repoRoot = run("git rev-parse --show-toplevel");
+
+function resolveRepoPath(...parts) {
+  return path.join(repoRoot, ...parts);
+}
+
 function getFileAtRef(ref, file) {
   try {
     return JSON.parse(run(`git show ${ref}:${file}`));
@@ -18,10 +24,25 @@ function listGeoJSONFiles(ref) {
   try {
     return run(`git ls-tree --name-only ${ref} data/`)
       .split("\n")
+      .filter(Boolean)
       .filter((f) => f.endsWith(".geojson"));
   } catch {
     return [];
   }
+}
+
+function listWorkingTreeGeoJSONCountryCodes() {
+  const dataDir = resolveRepoPath("data");
+
+  if (!fs.existsSync(dataDir)) {
+    return [];
+  }
+
+  return fs
+    .readdirSync(dataDir)
+    .filter((file) => file.endsWith(".geojson"))
+    .map((file) => path.basename(file, ".geojson"))
+    .sort();
 }
 
 function featureIndex(features) {
@@ -138,8 +159,6 @@ async function main() {
       }
 
       // Resolve each geojson file
-      const countryCodes = new Set();
-
       for (const file of allFiles) {
         const emptyCollection = { type: "FeatureCollection", features: [] };
         const baseData = getFileAtRef(mergeBase, file) || emptyCollection;
@@ -148,20 +167,25 @@ async function main() {
           getFileAtRef(`origin/${branch}`, file) || emptyCollection;
 
         const resolved = resolveFeatures(baseData, mainData, prData);
+        const filePath = resolveRepoPath(file);
 
-        if (resolved.features.length === 0) continue;
+        if (resolved.features.length === 0) {
+          if (fs.existsSync(filePath)) {
+            fs.unlinkSync(filePath);
+          }
+          run(`git add ${file}`);
+          continue;
+        }
 
-        countryCodes.add(path.basename(file, ".geojson"));
-
-        fs.mkdirSync(path.dirname(file), { recursive: true });
-        fs.writeFileSync(file, JSON.stringify(resolved, null, 2) + "\n");
+        fs.mkdirSync(path.dirname(filePath), { recursive: true });
+        fs.writeFileSync(filePath, JSON.stringify(resolved, null, 2) + "\n");
         run(`git add ${file}`);
       }
 
       // Update index.json
-      const sortedCodes = [...countryCodes].sort();
+      const sortedCodes = listWorkingTreeGeoJSONCountryCodes();
       fs.writeFileSync(
-        "index.json",
+        resolveRepoPath("index.json"),
         JSON.stringify({ countries: sortedCodes }, null, 2) + "\n"
       );
       run("git add index.json");
