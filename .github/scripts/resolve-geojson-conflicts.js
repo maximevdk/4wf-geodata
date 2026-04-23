@@ -6,6 +6,20 @@ function run(cmd) {
   return execSync(cmd, { encoding: "utf-8" }).trim();
 }
 
+const repoRoot = run("git rev-parse --show-toplevel");
+
+function resolveRepoPath(...parts) {
+  return path.join(repoRoot, ...parts);
+}
+
+function remoteRef(branch) {
+  return `refs/remotes/origin/${branch}`;
+}
+
+function fetchRemoteBranch(branch) {
+  run(`git fetch origin ${branch}:${remoteRef(branch)}`);
+}
+
 function getFileAtRef(ref, file) {
   try {
     return JSON.parse(run(`git show ${ref}:${file}`));
@@ -18,10 +32,25 @@ function listGeoJSONFiles(ref) {
   try {
     return run(`git ls-tree --name-only ${ref} data/`)
       .split("\n")
+      .filter(Boolean)
       .filter((f) => f.endsWith(".geojson"));
   } catch {
     return [];
   }
+}
+
+function listWorkingTreeGeoJSONCountryCodes() {
+  const dataDir = resolveRepoPath("data");
+
+  if (!fs.existsSync(dataDir)) {
+    return [];
+  }
+
+  return fs
+    .readdirSync(dataDir)
+    .filter((file) => file.endsWith(".geojson"))
+    .map((file) => path.basename(file, ".geojson"))
+    .sort();
 }
 
 function featureIndex(features) {
@@ -89,21 +118,24 @@ async function main() {
 
   console.log(`Found ${prs.length} open PR(s).`);
 
-  run("git fetch origin master");
+  fetchRemoteBranch("master");
 
   for (const pr of prs) {
     const branch = pr.head.ref;
+    const masterRef = remoteRef("master");
+    const branchRef = remoteRef(branch);
+
     console.log(`\nProcessing PR #${pr.number}: ${pr.title} (${branch})`);
 
     try {
-      run(`git fetch origin ${branch}`);
+      fetchRemoteBranch(branch);
 
-      const mergeBase = run(`git merge-base origin/master origin/${branch}`);
+      const mergeBase = run(`git merge-base ${masterRef} ${branchRef}`);
 
       // Try a test merge to see if there's a conflict
-      run("git checkout -f origin/master");
+      run(`git checkout -f ${masterRef}`);
       try {
-        run(`git merge --no-commit --no-ff origin/${branch} 2>&1`);
+        run(`git merge --no-commit --no-ff ${branchRef} 2>&1`);
         run("git merge --abort 2>/dev/null || true");
         console.log(`  No conflicts — skipping.`);
         continue;
@@ -116,16 +148,16 @@ async function main() {
       // Collect all geojson files across all three refs
       const allFiles = new Set([
         ...listGeoJSONFiles(mergeBase),
-        ...listGeoJSONFiles("origin/master"),
-        ...listGeoJSONFiles(`origin/${branch}`),
+        ...listGeoJSONFiles(masterRef),
+        ...listGeoJSONFiles(branchRef),
       ]);
 
       // Check out the PR branch and merge main
-      run(`git checkout -f origin/${branch}`);
-      run(`git checkout -b temp-resolve-${pr.number}`);
+      run(`git checkout -f ${branchRef}`);
+      run(`git checkout -B temp-resolve-${pr.number}`);
 
       try {
-        run(`git merge origin/master -X ours --no-edit`);
+        run(`git merge ${masterRef} -X ours --no-edit`);
       } catch {
         // If merge fails, we'll resolve manually below
         for (const file of allFiles) {
@@ -138,30 +170,32 @@ async function main() {
       }
 
       // Resolve each geojson file
-      const countryCodes = new Set();
-
       for (const file of allFiles) {
         const emptyCollection = { type: "FeatureCollection", features: [] };
         const baseData = getFileAtRef(mergeBase, file) || emptyCollection;
-        const mainData = getFileAtRef("origin/master", file) || emptyCollection;
-        const prData =
-          getFileAtRef(`origin/${branch}`, file) || emptyCollection;
+        const mainData = getFileAtRef(masterRef, file) || emptyCollection;
+        const prData = getFileAtRef(branchRef, file) || emptyCollection;
 
         const resolved = resolveFeatures(baseData, mainData, prData);
+        const filePath = resolveRepoPath(file);
 
-        if (resolved.features.length === 0) continue;
+        if (resolved.features.length === 0) {
+          if (fs.existsSync(filePath)) {
+            fs.unlinkSync(filePath);
+          }
+          run(`git add ${file}`);
+          continue;
+        }
 
-        countryCodes.add(path.basename(file, ".geojson"));
-
-        fs.mkdirSync(path.dirname(file), { recursive: true });
-        fs.writeFileSync(file, JSON.stringify(resolved, null, 2) + "\n");
+        fs.mkdirSync(path.dirname(filePath), { recursive: true });
+        fs.writeFileSync(filePath, JSON.stringify(resolved, null, 2) + "\n");
         run(`git add ${file}`);
       }
 
       // Update index.json
-      const sortedCodes = [...countryCodes].sort();
+      const sortedCodes = listWorkingTreeGeoJSONCountryCodes();
       fs.writeFileSync(
-        "index.json",
+        resolveRepoPath("index.json"),
         JSON.stringify({ countries: sortedCodes }, null, 2) + "\n"
       );
       run("git add index.json");
@@ -178,7 +212,7 @@ async function main() {
     } catch (err) {
       console.error(`  Failed to process PR #${pr.number}: ${err.message}`);
     } finally {
-      run("git checkout -f origin/master 2>/dev/null || true");
+      run(`git checkout -f ${masterRef} 2>/dev/null || true`);
       run(`git branch -D temp-resolve-${pr.number} 2>/dev/null || true`);
     }
   }
